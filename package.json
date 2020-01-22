@@ -1,9 +1,10 @@
 {
-  "name": "morpher",
+  "name": "ru-morpher",
   "version": "0.0.1",
   "description": "Библиотека для склонения слов по падежам",
   "main": "src/index.js",
-  "author": "byTimo",
+  "author": "byTimo <race.timo@gmail.com>",
+  "repository": "https://github.com/byTimo/morpher-js",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
